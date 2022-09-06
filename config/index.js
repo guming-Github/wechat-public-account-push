@@ -13,21 +13,6 @@ export const config = {
   // 如果你非要填这里也行。脚本也能运行
     APP_SECRET: "8f36780751b3a59f7611f131ae81b9f8",
 
-  /**
-   * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
-   * [
-   *  {
-   *    // 想要发送的人的名字
-   *    name: "老婆",
-   *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-   *    id: "odS7L542WxnLSJZRwcGCEYFb014Q",
-   *    // 你想对他发送的模板消息的模板ID
-   *    useTemplateId: "Lq-pwjTgoQQDRUOZUPC48mt9Zdk2qI8LtKQoBDxFhcw",
-   *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-   *    openUrl: "https://wangxinleo.cn"
-   *   }, 
-   * ]
-   */
   USERS: [
     {
       // 想要发送的人的名字
@@ -45,9 +30,9 @@ export const config = {
     }
   ],
 
-  /**
-   * 回调消息 相关，主要用来展示发送是否成功/失败的数据
-   */
+/**
+   回调消息 相关，主要用来展示发送是否成功/失败的数据
+ 
 
   // 回调消息模板id, 用来看自己有没有发送成功的那个模板
   CALLBACK_TEMPLATE_ID: "Lq-pwjTgoQQDRUOZUPC48mt9Zdk2qI8LtKQoBDxFhcw",
@@ -61,26 +46,8 @@ export const config = {
       id: "odS7L542WxnLSJZRwcGCEYFb014Q",
     }, 
   ],
+*/
     
-  /**
-   * 信息配置
-   */
-
-  /** 天气相关 */
-
-  // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: "河南",
-  // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "焦作",
-
-  /** 重要节日相关 */
-
-  /**
-   * 重要节日，修改名字为对应需要显示的名字, data 仅填月日即可, 请严格按照示例填写
-   * tpye必须填！ 只能 “生日” 和 “节日” 二选一!
-   * 生日时，name填写想要展示的名字，你可以填“美丽可爱亲亲老婆”
-   * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
-   */
   FESTIVALS: [
     {"type": "生日", "name": "老婆", "year": "1996", "date": "09-02"},
   ],
@@ -124,5 +91,5 @@ export const config = {
 
   // 好文节选的内容类型
   // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-  LITERARY_PREFERENCE: "其他"
+  LITERARY_PREFERENCE: "动画"
 }
