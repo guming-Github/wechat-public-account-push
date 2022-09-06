@@ -10,7 +10,7 @@ export const config = {
       useTemplateId: "Pn3pivmhxRhMSYYeI76_nen-XwXsZm0Ki7pHyUYda9Y",
       province: "江西",
       city: "上饶",
-      openUrl: "https://www.bilibili.com/"
+      openUrl: "https://www.yuque.com/yichu-fcttk/pzq3ag/dlibii"
     }
   ],
 
@@ -24,6 +24,7 @@ export const config = {
 
       name: "自己",
       id: "odS7L542WxnLSJZRwcGCEYFb014Q",
+       openUrl: "https://www.yuque.com/yichu-fcttk/pzq3ag/dlibii"
     }, 
   ],
 
