@@ -7,7 +7,7 @@ export const config = {
     {
       name: "老婆0",
       id: "odS7L542WxnLSJZRwcGCEYFb014Q",
-      useTemplateId: "	Pn3pivmhxRhMSYYeI76_nen-XwXsZm0Ki7pHyUYda9Y",
+      useTemplateId: "Pn3pivmhxRhMSYYeI76_nen-XwXsZm0Ki7pHyUYda9Y",
       province: "河南",
       city: "焦作",
       openUrl: "https://www.bilibili.com/"
