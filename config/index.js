@@ -6,7 +6,7 @@ export const config = {
   USERS: [
     {
       name: "老婆0",
-      id: "odS7L542WxnLSJZRwcGCEYFb014Q",
+      id: "odS7L59v22TX_GTOHi-Rd0-2YXWM",
       useTemplateId: "Pn3pivmhxRhMSYYeI76_nen-XwXsZm0Ki7pHyUYda9Y",
       province: "江西",
       city: "上饶",
@@ -38,7 +38,7 @@ export const config = {
 
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2022-07-24"}
+    {"keyword": "love_day", date: "2022-07-23"}
   ],
 
   SLOT_LIST: [
