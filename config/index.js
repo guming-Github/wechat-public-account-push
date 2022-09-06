@@ -8,8 +8,8 @@ export const config = {
       name: "老婆0",
       id: "odS7L542WxnLSJZRwcGCEYFb014Q",
       useTemplateId: "Pn3pivmhxRhMSYYeI76_nen-XwXsZm0Ki7pHyUYda9Y",
-      province: "河南",
-      city: "焦作",
+      province: "江西",
+      city: "上饶",
       openUrl: "https://www.bilibili.com/"
     }
   ],
