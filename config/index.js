@@ -1,12 +1,10 @@
 export const config = {
 
-   APP_ID: "wx95a939c0c88c5907",
-   APP_SECRET: "8f36780751b3a59f7611f131ae81b9f8",
-
   USERS: [
     {
       name: "老婆0",
-      id: "odS7L59v22TX_GTOHi-Rd0-2YXWM",
+      //id: "odS7L59v22TX_GTOHi-Rd0-2YXWM",
+      id: "odS7L542WxnLSJZRwcGCEYFb014Q",
       useTemplateId: "Pn3pivmhxRhMSYYeI76_nen-XwXsZm0Ki7pHyUYda9Y",
       province: "江西",
       city: "上饶",
