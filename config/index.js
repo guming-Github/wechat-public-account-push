@@ -7,7 +7,7 @@ export const config = {
     {
       name: "老婆0",
       id: "odS7L542WxnLSJZRwcGCEYFb014Q",
-      useTemplateId: "Lq-pwjTgoQQDRUOZUPC48mt9Zdk2qI8LtKQoBDxFhcw",
+      useTemplateId: "tkP8PIJPiu15J4oQoiNBtBKaCpsrtR0O3cgyYMB8Xp4",
       province: "河南",
       city: "焦作",
       //openUrl: "https://www.yuque.com/dashboard"
@@ -23,7 +23,7 @@ export const config = {
     {
 
       name: "自己",
-      id: "odS7L542WxnLSJZRwcGCEYFb014Q",
+      id: "5MHXoUO-PMnzWhaiDH5P1lmEP0zrtjZwBCEA8RIUsOs",
     }, 
   ],
 
