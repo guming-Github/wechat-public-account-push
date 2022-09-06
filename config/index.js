@@ -7,10 +7,10 @@ export const config = {
     {
       name: "老婆0",
       id: "odS7L542WxnLSJZRwcGCEYFb014Q",
-      useTemplateId: "tkP8PIJPiu15J4oQoiNBtBKaCpsrtR0O3cgyYMB8Xp4",
+      useTemplateId: "	Pn3pivmhxRhMSYYeI76_nen-XwXsZm0Ki7pHyUYda9Y",
       province: "河南",
       city: "焦作",
-      //openUrl: "https://www.yuque.com/dashboard"
+      openUrl: "https://www.bilibili.com/"
     }
   ],
 
@@ -18,18 +18,18 @@ export const config = {
  
 
   // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "Lq-pwjTgoQQDRUOZUPC48mt9Zdk2qI8LtKQoBDxFhcw",
+  CALLBACK_TEMPLATE_ID: "5MHXoUO-PMnzWhaiDH5P1lmEP0zrtjZwBCEA8RIUsOs",
   CALLBACK_USERS: [
     {
 
       name: "自己",
-      id: "5MHXoUO-PMnzWhaiDH5P1lmEP0zrtjZwBCEA8RIUsOs",
+      id: "odS7L542WxnLSJZRwcGCEYFb014Q",
     }, 
   ],
 
     
   FESTIVALS: [
-    {"type": "生日", "name": "老婆", "year": "1996", "date": "09-02"},
+    {"type": "生日", "name": "老婆", "year": "2002", "date": "07-24"},
   ],
 
   FESTIVALS_LIMIT: 0,
@@ -37,7 +37,7 @@ export const config = {
 
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2015-05-01"}
+    {"keyword": "love_day", date: "2022-07-24"}
   ],
 
   SLOT_LIST: [
