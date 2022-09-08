@@ -3,8 +3,8 @@ export const config = {
   USERS: [
     {
       name: "老婆",
-      //id: "odS7L59v22TX_GTOHi-Rd0-2YXWM",
-      id: "odS7L542WxnLSJZRwcGCEYFb014Q",
+      id: "odS7L59v22TX_GTOHi-Rd0-2YXWM",
+      //id: "odS7L542WxnLSJZRwcGCEYFb014Q",
       useTemplateId: "Pn3pivmhxRhMSYYeI76_nen-XwXsZm0Ki7pHyUYda9Y",
       province: "江西",
       city: "上饶",
